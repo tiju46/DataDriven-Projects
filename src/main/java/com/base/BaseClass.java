@@ -22,7 +22,8 @@ public class BaseClass {
          driver.navigate().to("https://opensource-demo.orangehrmlive.com/");  
        //Scroll down the webpage by 5000 pixels  
      //JavascriptExecutor js = (JavascriptExecutor)driver;  
-     //js.executeScript("scrollBy(0, 5000)");        
+     //js.executeScript("scrollBy(0, 5000)"); 
+         //testfile
  } 
 	@DataProvider(name="Credentials")
 	public Object[][] getData() {
