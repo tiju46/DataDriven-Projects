@@ -12,5 +12,6 @@ public class writeexceltest {
 	@Test
 	public void writetest() throws Exception {
 		obj.writeExcel("writeData", "First Column1", 0,0);
+		
 	}
 }
